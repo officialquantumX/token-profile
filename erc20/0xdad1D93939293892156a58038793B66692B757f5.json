@@ -1,0 +1,17 @@
+{
+  "email":      "official@quantumxpro.net",
+  "website":    "http://quantumxpro.net/",
+  "whitepaper": "http://quantumxpro.net/Quantumx%20Whitepaper.pdf",
+  "state":      "NORMAL",
+  "published_on": "2020-10-31",
+  "initial_price":{
+                    "USD":"0.500 USD"
+                  },
+  "links": {
+            "blog":     "https://officialquantu1.medium.com/ ",
+            "twitter":  "https://twitter.com/OfficialQuantu1 ",
+            "github":   "https://github.com/officialquantumX/token-profile",
+            "telegram": "https://t.me/QTXofficial ",
+            "medium":   "https://officialquantu1.medium.com/ "
+           }
+}
